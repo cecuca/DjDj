@@ -1,2 +1,3 @@
-# IPlugEffect
-A basic volume control effect plug-in with IGraphics GUI
+# DjDj
+Simple threshold using saturator. 
+To install just transfer DjDj.vst3 to your vst plugin folder.
